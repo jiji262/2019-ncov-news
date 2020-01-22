@@ -6,7 +6,7 @@
 
 ### [网易新闻 专题页面](https://news.163.com/special/epidemic/) 
 
-信息比较全，更新及时。
+信息比较全，包含国外数据。
 
 ### [丁香园 专题页面](https://3g.dxy.cn/newh5/view/pneumonia)
 
@@ -17,4 +17,6 @@
 有每天的历史数据，可视化做的比较好。
 
 ### [凤凰新闻 专题页面](https://news.ifeng.com/c/special/7tPlDSzDgVk)
+
+包含国外数据。
 
