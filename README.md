@@ -2,6 +2,7 @@
 
 关注武汉肺炎(2019-nCov)，愿世界安好！
 
+大量繁杂的消息向我们涌来，有更权威的官方消息也有恶意传播的小道消息。
 本repo旨在提供真实可靠的官方数据渠道，供各位参阅。
 
 **不传谣，不信谣！**
@@ -23,6 +24,10 @@
 ### [凤凰新闻 专题页面](https://news.ifeng.com/c/special/7tPlDSzDgVk)
 
 包含国外数据。
+
+### [360 做的疫情大屏](https://arena.360.cn/docs/wuhan_pneumonia/)
+
+数据更新相对较慢，页面做的也很是唬人，还有[mobile版本](https://arena.360.cn/docs/wuhan_pneumonia/mobile/).
 
 ##  科普
 
