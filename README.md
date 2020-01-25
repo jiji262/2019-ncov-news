@@ -9,6 +9,8 @@
 
 ## 官方信息查看渠道（实时更新）
 
+### [较真-新型冠状病毒肺炎实时辟谣](https://vp.fact.qq.com/home)
+
 ### [网易新闻 专题页面](https://news.163.com/special/epidemic/) 
 
 信息比较全，包含国外数据。
@@ -28,6 +30,20 @@
 ### [360 做的疫情大屏](https://arena.360.cn/docs/wuhan_pneumonia/)
 
 数据更新相对较慢，页面做的也很是唬人，还有[mobile版本](https://arena.360.cn/docs/wuhan_pneumonia/mobile/).
+
+
+### [梅斯](http://m.medsci.cn/wh.asp)
+
+### [新浪]((https://news.sina.cn/zt_d/yiqing0121)
+
+### [知乎](https://www.zhihu.com/special/19681091)
+
+### [一财](https://m.yicai.com/news/100476965.html)
+
+### [夸克](https://broccoli.uc.cn/apps/pneumonia/routes/index)
+
+### [百度](https://voice.baidu.com/act/newpneumonia/newpneumonia)
+
 
 ##  科普
 
