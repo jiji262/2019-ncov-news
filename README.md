@@ -32,17 +32,17 @@
 数据更新相对较慢，页面做的也很是唬人，还有[mobile版本](https://arena.360.cn/docs/wuhan_pneumonia/mobile/).
 
 
-### [梅斯](http://m.medsci.cn/wh.asp)
+### [梅斯 专题页面](http://m.medsci.cn/wh.asp)
 
-### [新浪]((https://news.sina.cn/zt_d/yiqing0121)
+### [新浪 专题页面](https://news.sina.cn/zt_d/yiqing0121)
 
-### [知乎](https://www.zhihu.com/special/19681091)
+### [知乎 专题页面](https://www.zhihu.com/special/19681091)
 
-### [一财](https://m.yicai.com/news/100476965.html)
+### [一财 专题页面](https://m.yicai.com/news/100476965.html)
 
-### [夸克](https://broccoli.uc.cn/apps/pneumonia/routes/index)
+### [夸克 专题页面](https://broccoli.uc.cn/apps/pneumonia/routes/index)
 
-### [百度](https://voice.baidu.com/act/newpneumonia/newpneumonia)
+### [百度 专题页面](https://voice.baidu.com/act/newpneumonia/newpneumonia)
 
 
 ##  科普
